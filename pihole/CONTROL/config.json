@@ -1,16 +1,16 @@
 {
    "general":{
-      "package":"pihole-docker",
-      "name":"Pi-hole",
-      "version":"v5.17.1.r01",
+      "package":"pihole6-docker",
+      "name":"Pihole",
+      "version":"v6.1.4",
       "depends":[
          "docker-ce(>=20.10.2.r2)"
       ],
       "conflicts":[],
       "developer":"Pi-hole",
-      "maintainer":"cheehoong",
-      "email":"lechho@gmail.com",
-      "website":"https://github.com/cheehoong/asustor-apk-pihole",
+      "maintainer":"gfnord",
+      "email":"gustavofn@gmail.com",
+      "website":"https://github.com/gustavofn/asustor-apk-pihole",
       "architecture":"any",
       "firmware":"4.0.0"
     },
